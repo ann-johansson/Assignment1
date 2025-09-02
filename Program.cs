@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Writing someething here...Nemo skrev");
+            Console.WriteLine("writing to try");
         }
     }
 }
